@@ -271,7 +271,7 @@ header>nav>ul>li>a:hover
 }
 
 .sec_4Grid-item:hover{
-    box-shadow: 0 0 15px #CAD3D5;
+    box-shadow: 0 0 100px #CAD3D5;
 }
 
 .sec_4Grid-item img
